@@ -4,4 +4,5 @@
 
 ``` 2. Object Detection ```
 
-``` 3. FATURA ```
+``` 3. Invoice ```
+
