@@ -4,5 +4,5 @@
 
 ``` 2. Object Detection ```
 
-``` 3. Invoice ```
+``` 3. Invoice Project ```
 
